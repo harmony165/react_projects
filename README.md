@@ -4,6 +4,14 @@ These are all my React projects
 
 Instructions to Run :
 
+Make sure you have Node JS installed , you can check by typing in 
+
+node -v
+>2+2
+you should get 
+>4 
+if not then install the latest version of Node JS
+
 Run the following commands on your terminal :
 
 1. git clone (Repository link)
@@ -12,6 +20,6 @@ Run the following commands on your terminal :
 
 3. remove any packagelock.json file and any node_modules folder
 
-4. npm install
+4. npm install (will take a while , you make get alot of dependency errors , but just ignore them and continue)
 
 5. npm start 
